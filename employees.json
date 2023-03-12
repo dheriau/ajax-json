@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Derya Uludağ",
+        "departmen": "Bilişim",
+        "Salary": 3500
+
+    },
+
+    {
+        "name": "Sevda Yeşil",
+        "departmen": "Finance",
+        "Salary": 5000
+
+    },
+
+    {
+        "name": "Deniz Dağ",
+        "departmen": "Kuaför",
+        "Salary": 10000
+
+    },
+
+    {
+        "name": "Güneş Aras Uludağ",
+        "departmen": "Mühendis",
+        "salary": 80000
+
+    }
+]
